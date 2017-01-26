@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VN_Addtion.ID
+namespace GenerateCapcha_VN
 {
     class GenerateCapcha
     {
